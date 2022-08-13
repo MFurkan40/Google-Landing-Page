@@ -10,6 +10,7 @@ nav {
   justify-content: space-between;
   padding: 0.5rem 0.5rem 0 0.5rem;
   font-size: 0.85rem;
+  min-width: 550px;
 }
 
 .box {
@@ -54,6 +55,7 @@ nav {
   flex-direction: column;
   height: 50rem;
   gap: 1.5rem;
+  min-width: 600px;
 }
 
 .search-bar {
